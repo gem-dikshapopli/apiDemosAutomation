@@ -13,4 +13,8 @@ public class Locators {
     public static By tap=By.id("com.touchboarder.android.api.demos:id/next");
     public static By dragElement=By.id("com.touchboarder.android.api.demos:id/drag_dot_1");
     public static By dropElement=By.id("com.touchboarder.android.api.demos:id/drag_dot_2");
+    public static By rotatingButtonDimension=By.id("com.touchboarder.android.api.demos:id/rotatingButton");
+    public static By swipe=By.id("com.touchboarder.android.api.demos:id/translationX");
+
+    public static By verifyNumberOfTapsText=By.className("android.widget.TextView");
 }
